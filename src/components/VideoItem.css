@@ -1,0 +1,17 @@
+.media{
+	border:2px solid #ddd;
+	border-collapse: collapse;
+	padding: 5px;
+	margin-bottom: 4px;
+	display: flex;
+	cursor:pointer;
+}
+.media span{
+	align-self: center;
+	font-size: 18px;
+	font-weight:bold;
+}
+.media img{
+	width:200px;
+	/*height: 100px;*/
+}
